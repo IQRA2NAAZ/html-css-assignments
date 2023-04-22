@@ -1,0 +1,24 @@
+body{
+    background-color: #FF6969;
+}
+label{
+    text-transform: capitalize;
+    color: darkblue;
+}
+.container{
+    background-color:#FFD3B0;
+    border-radius: 10px;
+}
+.container1{
+    background-color:#FFD3B0;
+    border-radius: 10px;
+    cursor: pointer;
+}
+input[type="text"],
+input[type="number"]
+{
+border-radius:20px;
+width: 20%;
+padding: 12PX;
+}
+
